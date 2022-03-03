@@ -1,2 +1,2 @@
 # payday
-Payday CLI to retrieve protocol fee funds.
+Payday CLI to retrieve GuapSwap protocol fee funds.
