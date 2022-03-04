@@ -1,0 +1,19 @@
+{
+    "node": {
+        "nodeApi": {
+            "apiUrl": "http://127.0.0.1:9053",
+            "apiKey": ""
+        },
+        "wallet": {
+            "mnemonic": "",
+            "password": "",
+            "mnemonicPassword": ""
+        },
+        "networkType": "MAINNET"      
+    },
+    "parameters": {
+        "paydayProtocolSettings": {
+            "paydayIntervalInHours": "1"
+        }
+    }
+}
